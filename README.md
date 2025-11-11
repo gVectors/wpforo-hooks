@@ -2063,7 +2063,7 @@ add_filter('wpforo_add_topic_data_filter', function($args) {
 
 ## Version Information
 
-- **wpForo Version**: 3.0.0.0
+- **wpForo Version**: 2.4.10
 - **Documentation Generated**: 2025-11-11
 - **Total Hooks Documented**: 609 occurrences (227 action, 382 filter)
 
