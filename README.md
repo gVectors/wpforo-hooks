@@ -1,6 +1,6 @@
-# wpForo 2.x.x Plugin Hooks Documentation
+# wpForo v2 Plugin Hooks Documentation
 
-Complete reference guide for all action and filter hooks available in wpForo 3.0 plugin.
+Complete reference guide for all action and filter hooks available in wpForo v2 plugin.
 
 **Total Hooks**: 609 occurrences
 - **Action Hooks**: 227 unique hooks
